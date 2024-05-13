@@ -205,9 +205,10 @@ sections:
     content:
       title: Publications
       text: |-
+
       filters:
         folders:
-          - publication
+          - publication/preprint
         # featured_only: true
         exclude_featured: True
     design:
