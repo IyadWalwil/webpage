@@ -31,6 +31,8 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2403.12579
+- name: HAL
+  url: https://hal.science/hal-04501394v1
 url_pdf: https://arxiv.org/pdf/2403.12579
 url_code: 'https://github.com/IyadWalwil/SDG-as-a-Stopping-Criterion'
 # url_dataset: '#'
