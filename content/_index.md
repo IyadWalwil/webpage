@@ -234,10 +234,10 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+
       # Contact (add or remove contact options as necessary)
       email: iyad.walwil@gmail.com
-      email: iyad.walwil@telecom-paris.fr
+        email: iyad.walwil@telecom-paris.fr
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
