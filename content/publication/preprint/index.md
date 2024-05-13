@@ -1,7 +1,7 @@
 ---
 title: "The Smoothed Duality Gap as a Stopping Criterion"
 authors:
-- Iyad Walwil
+- admin
 - Olivier Fercoq
 date: "2024-03-19"
 doi: ""
