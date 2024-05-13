@@ -205,9 +205,6 @@ sections:
     content:
       title: Publications
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
@@ -284,3 +281,9 @@ sections:
     # design:
     #   columns: '2'
 ---
+
+
+
+        <!-- {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}} -->
